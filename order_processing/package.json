@@ -1,0 +1,11 @@
+{
+    "name": "order-processing",
+    "version": "1.0.0",
+    "description": "A simple order processing service",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {}
+  }
+  
